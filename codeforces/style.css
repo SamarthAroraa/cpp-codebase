@@ -1,0 +1,25 @@
+#amitoj{
+	height:200px;
+	width:200px;
+	visibility: hidden;
+	position: absolute;
+	left:20%;
+	top: 20%;
+	z-index: 1;
+}
+#amitoj:target{
+	height:200px;
+	width:200px;
+	visibility: visible;
+	background-color: red;
+	
+}
+#div{
+	position: absolute;
+	background-color: blue;
+	width:400px;
+	height:400px;
+	left:19%;
+	top: 19%;
+
+}

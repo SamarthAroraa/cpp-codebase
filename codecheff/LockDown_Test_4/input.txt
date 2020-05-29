@@ -1,0 +1,8 @@
+7
+abcd
+abc
+ab
+a
+aaaaa
+aaaaaa
+aaaaaaa
